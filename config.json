@@ -1,9 +1,9 @@
 {
     "database": {
-        "host": "sezercanpostgres3.postgres.database.azure.com",
+        "host": "selindatabase1.postgres.database.azure.com",
         "dbname": "postgres",
-        "user": "usrsezer@SezercanPostgres3",
-        "password": "Sezercan123*",
+        "user": "Selin@SelinDatabase1",
+        "password": "Selocan4545",
         "ssl": "require"
     }
 }
